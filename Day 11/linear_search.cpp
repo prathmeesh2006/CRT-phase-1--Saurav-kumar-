@@ -10,7 +10,7 @@ int Linear_Search(int nums[], int n, int target)
             return i;
         }
     }
-    return -1; // Element not found
+    return -1; 
 }
 
 int main()
